@@ -66,10 +66,9 @@ const App = () => {
               </div>
             ))
           }
-          <div className="button-container">
+          
             <button type="button" onClick={handleAddForm}>Add Form</button>
             <button type="submit">Submit</button>
-          </div>
         </form>
 
         <p>After clicking submit check console for data</p>

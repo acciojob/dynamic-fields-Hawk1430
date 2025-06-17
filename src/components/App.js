@@ -67,7 +67,7 @@ const App = () => {
             ))
           }
           
-            <button type="button" onClick={handleAddForm}>Add Form</button>
+            <button type="button" onClick={handleAddForm}>Add More...</button>
             <button type="submit">Submit</button>
         </form>
 
